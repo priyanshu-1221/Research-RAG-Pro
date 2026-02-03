@@ -16,8 +16,13 @@ PaperMind AI is a local RAG (Retrieval-Augmented Generation) application designe
 - **Vector Database:** ChromaDB
 - **Document Processing:** PyPDF & Recursive Character Text Splitting
 
-## 💻 Setup Instructions
+## 🚀 Quick Start: How to Run
 
-1. **Install Requirements:**
+Follow these steps to launch the application on your local machine:
+
+1. **Prepare the Environment:**
+   Ensure you have Python installed and the required libraries:
    ```bash
    pip install -r requirements.txt
+2. Open a terminal and start Ollama:ollama serve
+3. Open a new terminal window in the project folder and run   
